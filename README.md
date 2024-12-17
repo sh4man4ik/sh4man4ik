@@ -4,6 +4,7 @@
 - 👨‍💻 I like writing code
 - 💪 I love to play sports
 - 🧠 I like to learn new things
+- 👀 I'm a cybersecurity specialist
 
 ## Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JustCookieCookie)
