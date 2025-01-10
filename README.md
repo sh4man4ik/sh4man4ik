@@ -30,14 +30,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My statistics
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustCookie&theme=dark)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sh4man&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCookieCookie&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh4man4ik&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCookieCookie&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4man4ik&layout=compact&theme=dark)
 
 <!-- Snake -->
 <div align="center">
   
-  ![snake gif](https://github.com/JustCookieCookie/JustCookieCookie/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg)
 </div>
