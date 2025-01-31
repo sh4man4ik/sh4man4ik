@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer
 - 👨‍💻 I like writing code
-- 💪 I love to play sports
+- 🏀 I love to play sports
 - 🧠 I like to learn new things
 - 👀 I'm a cybersecurity specialist
 
