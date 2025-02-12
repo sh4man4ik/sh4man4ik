@@ -1,4 +1,4 @@
-### Hi! My name is Daniil!👋
+### Hi! My name is Daniil! 👋
 
 ## I'm a Full-Stack Developer
 - 👨‍💻 I like writing code
