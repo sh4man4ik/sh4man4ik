@@ -22,7 +22,6 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![gtest/gmock](https://img.shields.io/badge/gtest%2Fgmock-CC0000?style=for-the-badge&logo=google&logoColor=white)
 ![fmt](https://img.shields.io/badge/fmt-005F7F?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-008080?style=for-the-badge&logo=sfml&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
