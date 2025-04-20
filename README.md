@@ -4,7 +4,6 @@
 - 👨‍💻 I like writing code
 - 💪 I love to play sports
 - 🧠 I like to learn new things
-- 👀 I'm a cybersecurity specialist
 
 ## Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh4man4ikk)
@@ -18,10 +17,6 @@
 
 
 ## Languages and technologies
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![gtest/gmock](https://img.shields.io/badge/gtest%2Fgmock-CC0000?style=for-the-badge&logo=google&logoColor=white)
-![fmt](https://img.shields.io/badge/fmt-005F7F?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
