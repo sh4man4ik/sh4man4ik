@@ -4,6 +4,7 @@
 - 👨‍💻 I like writing code
 - 💪 I love to play sports
 - 🧠 I like to learn new things
+- 🎮 I enjoy playing video games
 - ✍️ I run my own blog
 
 ## Contact Me
