@@ -7,7 +7,6 @@
 - 🧠 I like to learn new things
 - ✍️ I run my own blog
 
-
 ## Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh4man4ikk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniil.ignatjev@gmail.com)
