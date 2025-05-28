@@ -38,8 +38,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## My statistics
-<div align="center">
-
 [![wakatime](https://wakatime.com/badge/user/018d697c-cd90-4e3c-a49e-63340a37dcf9.svg)](https://wakatime.com/@018d697c-cd90-4e3c-a49e-63340a37dcf9)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sh4man&theme=dark)
@@ -47,8 +45,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh4man4ik&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4man4ik&layout=compact&theme=dark)
-
-</div>
 
 <!-- Snake -->
 <div align="center">
