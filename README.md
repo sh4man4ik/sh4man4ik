@@ -16,7 +16,7 @@
 
 | Description | Link |
 |------------|-----------|
-| 📝 I run my own blog | [![Blog](https://img.shields.io/badge/Blog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh4man_blog) |
+| 📝 My own blog | [![Blog](https://img.shields.io/badge/Blog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh4man_blog) |
 | 💼 My LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-i-64b118314) |
 | ✍️ Write articles in Russian language | [![Habr](https://img.shields.io/badge/Habr-00A3E0?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/sh4man) |
 | 💭 Answering questions in Russian language | [![Habr Q&A](https://img.shields.io/badge/Habr_Q&A-2684FF?style=for-the-badge&logo=habr&logoColor=white)](https://qna.habr.com/user/sh4man) |
