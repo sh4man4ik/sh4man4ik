@@ -18,6 +18,7 @@
 [![Blog](https://img.shields.io/badge/Blog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh4man_blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-i-64b118314)
 [![Habr](https://img.shields.io/badge/Habr-00A3E0?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/sh4man)
+[![Habr Q&A](https://img.shields.io/badge/Habr_Q&A-2684FF?style=for-the-badge&logo=question&logoColor=white)](https://qna.habr.com/user/sh4man)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25945012/sh4man)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sh4manik)
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@sh4man)
