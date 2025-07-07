@@ -51,6 +51,8 @@
 
 ### GitHub
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sh4man4ik&theme=dark)](https://github.com/sh4man4ik)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh4man4ik&show_icons=true&theme=dark)](https://github.com/sh4man4ik)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4man4ik&layout=compact&theme=dark)](https://github.com/sh4man4ik)
