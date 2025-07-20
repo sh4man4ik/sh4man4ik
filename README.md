@@ -1,4 +1,5 @@
 ## 👋 Hi, my name is Daniil
+
 My name is Daniil, I am a Full-Stack developer specializing in web development. I have been programming in JavaScript, HTML and CSS for over 1 year. I am also familiar with SOLID, OOP and algorithms.
 
 ## 👨‍💻 I'm a Full-Stack Developer
@@ -41,26 +42,6 @@ My name is Daniil, I am a Full-Stack developer specializing in web development. 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-## 📊 My statistics
-
-### Wakatime
-
-[![WakaTime](https://wakatime.com/badge/user/018d697c-cd90-4e3c-a49e-63340a37dcf9.svg?style=for-the-badge)](https://wakatime.com/@018d697c-cd90-4e3c-a49e-63340a37dcf9)
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sh4man&theme=dark)](https://wakatime.com/@018d697c-cd90-4e3c-a49e-63340a37dcf9)
-
-### GitHub
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sh4man4ik&theme=dark)](https://github.com/sh4man4ik)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh4man4ik&show_icons=true&theme=dark)](https://github.com/sh4man4ik)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4man4ik&layout=compact&theme=dark)](https://github.com/sh4man4ik)
-
-### Other
-
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sh4manik&theme=dark)](https://leetcode.com/sh4manik/)
 
 <!-- Snake -->
 <div align="center">
