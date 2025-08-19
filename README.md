@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Daniil
 
-My name is Daniil, I am a Full-Stack developer specializing in web development. I have been programming in JavaScript, HTML and CSS for over 1 year. I am also familiar with SOLID, OOP and algorithms.
+My name is Daniil, I am a JavaScript developer. I have been programming in JavaScript, HTML and CSS for over 1 year. I am also familiar with SOLID, OOP and algorithms.
 
 ## 👨‍💻 I'm a Full-Stack Developer
 
