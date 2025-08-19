@@ -2,7 +2,7 @@
 
 My name is Daniil, I am a JavaScript developer with over one year of experience. I also have knowledge of OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs and computer hardware.
 
-## 👨‍💻 I'm a Full-Stack Developer
+## 👨‍💻 I'm a JavaScript Developer
 
 - 🌐 My website: https://sh4man.com
 - 👨‍💻 I like writing code
