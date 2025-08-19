@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Daniil
 
-My name is Daniil, I am a JavaScript developer. I have been programming in JavaScript, HTML and CSS for over 1 year. I am also familiar with SOLID, OOP and algorithms.
+My name is Daniil, I am a JavaScript developer with over one year of experience. I also have knowledge of OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs and computer hardware.
 
 ## 👨‍💻 I'm a Full-Stack Developer
 
