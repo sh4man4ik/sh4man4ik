@@ -1,10 +1,11 @@
 ## 👋 Hi, my name is Daniil
 
-My name is Daniil, I am a JavaScript developer with over one year of experience. I also have knowledge of OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs and computer hardware.
+My name is Daniil, I am a Full-Stack developer with over one year of experience. I also have knowledge of OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs and computer hardware.
 
-## 👨‍💻 I'm a JavaScript Developer
+## 👨‍💻 I'm a Full-Stack Developer
 
 - 🌐 My website: https://sh4man.com
+- ✍️ My blog: https://t.me/sh4man_blog
 - 👨‍💻 I like writing code
 - 💪 I love to play sports
 - 🧠 I like to learn new things
@@ -13,13 +14,6 @@ My name is Daniil, I am a JavaScript developer with over one year of experience.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh4man4ikk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniil.ignatjev@gmail.com)
-
-## 📚 Profiles
-
-| Description | Link |
-|------------|-----------|
-| 📝 My blog | [![Blog](https://img.shields.io/badge/Blog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sh4man_blog) |
-| 💼 My LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-i-64b118314) |
 
 ## 🛠️ Tech stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
