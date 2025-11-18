@@ -5,7 +5,6 @@ My name is Daniil, I am a Full-Stack developer with over one year of experience.
 ## 👨‍💻 I'm a Full-Stack Developer
 
 - 🌐 My website: https://sh4man.com
-- ✍️ My blog: https://t.me/sh4man_blog
 - 👨‍💻 I like writing code
 - 💪 I love to play sports
 - 🧠 I like to learn new things
