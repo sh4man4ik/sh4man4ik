@@ -1,11 +1,11 @@
 ## 👋 Hi, my name is Daniil
 
-My name is Daniil, I am a Full-Stack developer with over one year of experience. I also have knowledge of OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs and computer hardware.
+My name is Daniil and I am a Full-Stack Developer. I have knowledge of OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs and computer hardware.
 
 ## 👨‍💻 I'm a Full-Stack Developer
 
-- 🌐 My website: https://sh4man.com
-- 👨‍💻 I like writing code
+- 🎥 My YouTube channel [youtube.com/@sh4manik](https://www.youtube.com/@sh4manik)
+- 👨‍💻 I love coding and enjoy it
 - 💪 I love to play sports
 - 🧠 I like to learn new things
 
