@@ -14,8 +14,6 @@ My name is Daniil and I am a Full-Stack Developer. I have knowledge of OOP, SOLI
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2CA5E0)](https://t.me/sh4man4ikk)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&labelColor=black&logo=gmail&logoColor=D14836)](mailto:daniil.ignatjev@gmail.com)
 
-
-
 ## 🛠️ Tech stack
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
