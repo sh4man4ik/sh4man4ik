@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Daniil
 
-My name is Daniil and I am a Full-Stack Developer. I have knowledge of OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs and computer hardware.
+My name is Daniil and I am a Full-Stack Developer. I have experience in OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs, and computer hardware. I am also skilled in communication, teamwork, adaptability, responsibility, and taking initiative.
 
 ## 👨‍💻 I'm a Full-Stack Developer
 
