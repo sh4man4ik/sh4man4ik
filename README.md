@@ -23,7 +23,7 @@ My name is Daniil and I am a Full-Stack Developer. I have knowledge of OOP, SOLI
 ![daisyUI](https://img.shields.io/badge/-daisyUI-5A0EF8?style=for-the-badge&labelColor=black&logo=daisyui&logoColor=5A0EF8)
 ![Remix Icon](https://img.shields.io/badge/-Remix_Icon-1e90ff?style=for-the-badge&labelColor=black&logo=rollupdotjs&logoColor=1e90ff&logoSize=auto)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-E6E8EB?style=for-the-badge&labelColor=black&logo=express&logoColor=E6E8EB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=git&logoColor=F05033)
