@@ -1,10 +1,11 @@
 ## 👋 Hi, my name is Daniil
 
-My name is Daniil and I am a Full-Stack Developer. I have experience in OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs, and computer hardware. I am also skilled in communication, teamwork, adaptability, responsibility, and taking initiative.
+My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs, and computer hardware. I am also skilled in communication, teamwork, adaptability, responsibility, and initiative.
 
 ## 👨‍💻 I'm a Full-Stack Developer
 
-- 🎥 My YouTube channel [youtube.com/@sh4manik](https://www.youtube.com/@sh4manik)
+- 🎥 My YouTube channel: [@sh4manik](https://www.youtube.com/@sh4manik)
+- 💼 My resume: [Daniil Ignatjev CV (PDF)](./Daniil_Ignatjev_CV.pdf)
 - 👨‍💻 I love coding and enjoy it
 - 💪 I love to play sports
 - 🧠 I like to learn new things
