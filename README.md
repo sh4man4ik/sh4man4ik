@@ -5,7 +5,7 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 ## 👨‍💻 I'm a Full-Stack Developer
 
 - 🎥 My YouTube channel: [@sh4manik](https://www.youtube.com/@sh4manik)
-- 💼 My Resume: [Download](https://raw.githubusercontent.com/sh4man4ik/sh4man4ik/main/Daniil_Ignatjev_CV.pdf)
+- 💼 My resume: [Download](https://raw.githubusercontent.com/sh4man4ik/sh4man4ik/main/Daniil_Ignatjev_CV.pdf)
 - 👨‍💻 I love coding and enjoy it
 - 💪 I love to play sports
 - 🧠 I like to learn new things
