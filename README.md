@@ -4,8 +4,7 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 
 ## 👨‍💻 I'm a Full-Stack Developer
 
-- 🎥 My YouTube channel: [@sh4manik](https://www.youtube.com/@sh4manik)
-- 💼 My resume: [Download](https://raw.githubusercontent.com/sh4man4ik/sh4man4ik/main/Daniil_Ignatjev_CV.pdf)
+- 💼 My resume: [download](https://raw.githubusercontent.com/sh4man4ik/sh4man4ik/main/Daniil_Ignatjev_CV.pdf)
 - 👨‍💻 I love coding and enjoy it
 - 💪 I love to play sports
 - 🧠 I like to learn new things
@@ -28,7 +27,6 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=git&logoColor=F05033)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
 
 <!-- Snake -->
 <div align="center">
