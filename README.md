@@ -27,7 +27,7 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
 ![Express](https://img.shields.io/badge/-Express-E6E8EB?style=for-the-badge&labelColor=black&logo=express&logoColor=E6E8EB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)
+![Vitest](https://img.shields.io/badge/-Vitest-3EDFA0?style=for-the-badge&labelColor=black&logo=vitest&logoColor=3EDFA0)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=git&logoColor=F05033)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
 ![Render](https://img.shields.io/badge/-Render-9B00E8?style=for-the-badge&labelColor=black&logo=render&logoColor=9B00E8)
