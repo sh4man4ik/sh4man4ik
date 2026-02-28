@@ -31,7 +31,7 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=git&logoColor=F05033)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
 ![Render](https://img.shields.io/badge/-Render-9B00E8?style=for-the-badge&labelColor=black&logo=render&logoColor=9B00E8)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/-Vercel-white?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
 
 <!-- Snake -->
 <div align="center">
