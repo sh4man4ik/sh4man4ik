@@ -30,8 +30,8 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 ![Vitest](https://img.shields.io/badge/-Vitest-3EDFA0?style=for-the-badge&labelColor=black&logo=vitest&logoColor=3EDFA0)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=git&logoColor=F05033)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
-![Render](https://img.shields.io/badge/-Render-9B00E8?style=for-the-badge&labelColor=black&logo=render&logoColor=9B00E8)
 ![Vercel](https://img.shields.io/badge/-Vercel-white?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-9B00E8?style=for-the-badge&labelColor=black&logo=render&logoColor=9B00E8)
 
 <!-- Snake -->
 <div align="center">
