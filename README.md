@@ -24,6 +24,7 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=Vite&logoColor=646CFF)
 ![daisyUI](https://img.shields.io/badge/-daisyUI-5A0EF8?style=for-the-badge&labelColor=black&logo=daisyui&logoColor=5A0EF8)
 ![Remix Icon](https://img.shields.io/badge/-Remix_Icon-1e90ff?style=for-the-badge&labelColor=black&logo=rollupdotjs&logoColor=1e90ff&logoSize=auto)
+![Google Fonts](https://img.shields.io/badge/-Google_Fonts-E6E8EB?style=for-the-badge&labelColor=black&logo=googlefonts&logoColor=E6E8EB)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
 ![Express](https://img.shields.io/badge/-Express-E6E8EB?style=for-the-badge&labelColor=black&logo=express&logoColor=E6E8EB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
@@ -31,7 +32,7 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=git&logoColor=F05033)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
 ![Render](https://img.shields.io/badge/-Render-9B00E8?style=for-the-badge&labelColor=black&logo=render&logoColor=9B00E8)
-![Vercel](https://img.shields.io/badge/-Vercel-white?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-E6E8EB?style=for-the-badge&labelColor=black&logo=vercel&logoColor=E6E8EB)
 
 <!-- Snake -->
 <div align="center">
