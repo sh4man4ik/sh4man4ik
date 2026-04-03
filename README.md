@@ -15,24 +15,19 @@ My name is Daniil, and I am a Full-Stack Developer. I have experience with OOP, 
 
 ## 🛠️ Tech stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=1572B6)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=Vite&logoColor=646CFF)
-![daisyUI](https://img.shields.io/badge/-daisyUI-5A0EF8?style=for-the-badge&labelColor=black&logo=daisyui&logoColor=5A0EF8)
-![Remix Icon](https://img.shields.io/badge/-Remix_Icon-1e90ff?style=for-the-badge&labelColor=black&logo=rollupdotjs&logoColor=1e90ff&logoSize=auto)
-![Google Fonts](https://img.shields.io/badge/-Google_Fonts-E6E8EB?style=for-the-badge&labelColor=black&logo=googlefonts&logoColor=E6E8EB)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
 ![Express](https://img.shields.io/badge/-Express-E6E8EB?style=for-the-badge&labelColor=black&logo=express&logoColor=E6E8EB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
 ![Vitest](https://img.shields.io/badge/-Vitest-3EDFA0?style=for-the-badge&labelColor=black&logo=vitest&logoColor=3EDFA0)
-![Vercel](https://img.shields.io/badge/-Vercel-white?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-9B00E8?style=for-the-badge&labelColor=black&logo=render&logoColor=9B00E8)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&labelColor=black&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/-GitHub-E6E8EB?style=for-the-badge&labelColor=black&logo=github&logoColor=E6E8EB)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
+![Render](https://img.shields.io/badge/-Render-9B00E8?style=for-the-badge&labelColor=black&logo=render&logoColor=9B00E8)
+![Vercel](https://img.shields.io/badge/-Vercel-E6E8EB?style=for-the-badge&labelColor=black&logo=vercel&logoColor=E6E8EB)
 
 <!-- Snake -->
 <div align="center">
