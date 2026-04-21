@@ -16,7 +16,6 @@ My name is Daniil, and I am a Cybersecurity Specialist. I have experience with O
 ## 🛠️ Tech stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
