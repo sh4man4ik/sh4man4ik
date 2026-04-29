@@ -17,10 +17,9 @@ My name is Daniil, and I am a Cybersecurity Specialist. I have experience with O
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sh4man&theme=dark)](https://wakatime.com/@sh4man)
 
-<!-- Snake -->
-<div>
-
 ## 🐍 Snake
+
+<div>
 
 ![Snake Gif](https://github.com/sh4man4ik/sh4man4ik/blob/output/github-snake-dark.svg)
 
