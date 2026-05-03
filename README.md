@@ -15,7 +15,7 @@ My name is Daniil, and I am a Cybersecurity Specialist. I have experience with O
 
 ## 📊 Coding Activity
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sh4man&theme=dark&hide_border=true)](https://wakatime.com/@sh4man)
+[![WakaTime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=sh4man&theme=dark&hide_border=true)](https://wakatime.com/@sh4man)
 
 ## 🐍 Snake
 
