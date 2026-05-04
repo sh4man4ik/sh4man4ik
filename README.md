@@ -12,6 +12,7 @@ My name is Daniil, and I am a Cybersecurity Specialist. I have experience with O
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2CA5E0)](https://t.me/sh4man4ikk)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)](https://discord.com/users/1263492247681237012)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)](mailto:daniil.ignatjev@gmail.com)
 
 ## 📊 Coding Activity
 
