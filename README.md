@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Daniil
 
-My name is Daniil, and I am a Cybersecurity Specialist. I have experience with OOP, SOLID principles, algorithms, CI/CD, web architecture, web security, APIs, and computer hardware. I am also skilled in communication, teamwork, adaptability, responsibility, and initiative.
+My name is Daniil, and I am a Cybersecurity Specialist. I have experience with OOP, SOLID principles, algorithms, CI/CD, web architecture, security engineering, APIs, and computer hardware. I am also skilled in communication, teamwork, adaptability, responsibility, and initiative.
 
 ## 👨‍💻 I'm a Cybersecurity Specialist
 
