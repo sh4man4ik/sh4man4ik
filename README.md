@@ -16,7 +16,7 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 
 ## 📊 Coding Activity
 
-[![WakaTime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=sh4man&theme=synthwave&hide_border=true)](https://wakatime.com/@sh4man)
+[![WakaTime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=sh4man&theme=tokyonight&hide_border=true)](https://wakatime.com/@sh4man)
 
 ## 🐍 Snake
 
