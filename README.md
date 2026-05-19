@@ -1,10 +1,6 @@
 ## 👋 Hi, my name is Daniil
 
-My name is Daniil, and I'm a Security-Focused Developer.
-
-I have experience with OOP, SOLID principles, algorithms, CI/CD, web architecture, security engineering, APIs, and computer hardware.
-
-I'm also skilled in communication, teamwork, adaptability, responsibility, and initiative.
+My name is Daniil, and I'm a Security-Focused Developer. I have experience with OOP, SOLID principles, algorithms, CI/CD, web architecture, security engineering, APIs, and computer hardware. I'm also skilled in communication, teamwork, adaptability, responsibility, and initiative.
 
 ## 👨‍💻 I'm a Security-Focused Developer
 
