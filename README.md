@@ -4,7 +4,7 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 
 ## 👨‍💻 I'm a Security-Focused Developer
 
-- 💼 My resume: [Download](https://raw.githubusercontent.com/sh4man4ik/sh4man4ik/main/Daniil.Ignatjev.CV.pdf)
+- 💼 My resume: [Download](https://raw.githubusercontent.com/sh4man4ik/sh4man4ik/main/Daniil%20Ignatjev%20CV.pdf)
 - 👨‍💻 I love coding and enjoy it
 - 💪 I love to play sports
 - 🧠 I like to learn new things
