@@ -23,14 +23,20 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=06B6D4)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
+![Express](https://img.shields.io/badge/-Express-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
+![Vitest](https://img.shields.io/badge/-Vitest-1EF389?style=for-the-badge&labelColor=black&logo=vitest&logoColor=1EF389)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
 ![CMake](https://img.shields.io/badge/-CMake-CC0000?style=for-the-badge&labelColor=black&logo=cmake&logoColor=CC0000)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&labelColor=black&logo=qt&logoColor=41CD52)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)
+![Render](https://img.shields.io/badge/-Render-7C3AED?style=for-the-badge&labelColor=black&logo=render&logoColor=7C3AED)
+![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=FFFFFF)
 
 ## 📊 Coding Activity
 
-[![WakaTime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=sh4man&theme=tokyonight&hide_border=true)](https://wakatime.com/@sh4man)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sh4man&theme=tokyonight&hide_border=true)](https://wakatime.com/@sh4man)
 
 ## 🐍 Snake
 
