@@ -34,10 +34,6 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 ![Render](https://img.shields.io/badge/-Render-7C3AED?style=for-the-badge&labelColor=black&logo=render&logoColor=7C3AED)
 ![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=FFFFFF)
 
-## 📊 Coding Activity
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sh4man&theme=tokyonight&hide_border=true)](https://wakatime.com/@sh4man)
-
 ## 🐍 Snake
 
 <div>
