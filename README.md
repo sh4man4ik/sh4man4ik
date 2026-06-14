@@ -20,19 +20,30 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=06B6D4)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
+![Assembler](https://img.shields.io/badge/-Assembler-808080?style=for-the-badge&labelColor=black&logo=assemblyscript&logoColor=808080)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
 ![Express](https://img.shields.io/badge/-Express-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
-![Vitest](https://img.shields.io/badge/-Vitest-1EF389?style=for-the-badge&labelColor=black&logo=vitest&logoColor=1EF389)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
 ![CMake](https://img.shields.io/badge/-CMake-CC0000?style=for-the-badge&labelColor=black&logo=cmake&logoColor=CC0000)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&labelColor=black&logo=qt&logoColor=41CD52)
+
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=06B6D4)
+
+![Vitest](https://img.shields.io/badge/-Vitest-1EF389?style=for-the-badge&labelColor=black&logo=vitest&logoColor=1EF389)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)
 ![Render](https://img.shields.io/badge/-Render-7C3AED?style=for-the-badge&labelColor=black&logo=render&logoColor=7C3AED)
 ![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDE5Ljg2VjQuMTRhMS41IDEuNSAwIDAgMC0uODUtMS41NTN6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiIGZpbGw9IiMwMDdBQ0MiLz48L3N2Zz4K)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/-Visual_Studio-5C2D91?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=5C2D91)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
+
+![Ghidra](https://img.shields.io/badge/-Ghidra-e02d2c?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e02d2c)
+![x64dbg](https://img.shields.io/badge/-x64dbg-313131?style=for-the-badge&labelColor=black&logo=openbugbounty&logoColor=313131)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-00758a?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=00758a)
 
 ## 🐍 Snake
 
