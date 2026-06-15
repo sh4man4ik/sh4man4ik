@@ -30,15 +30,16 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)
+![Vike](https://img.shields.io/badge/-Vike-9B6BFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=9B6BFF)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&labelColor=black&logo=electron&logoColor=47848F)
 
 ![Vitest](https://img.shields.io/badge/-Vitest-1EF389?style=for-the-badge&labelColor=black&logo=vitest&logoColor=1EF389)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&labelColor=black&logo=stripe&logoColor=635BFF)
 ![Render](https://img.shields.io/badge/-Render-7C3AED?style=for-the-badge&labelColor=black&logo=render&logoColor=7C3AED)
 ![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDE5Ljg2VjQuMTRhMS41IDEuNSAwIDAgMC0uODUtMS41NTN6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiIGZpbGw9IiMwMDdBQ0MiLz48L3N2Zz4K)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/-Visual_Studio-5C2D91?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=5C2D91)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
 
 ![Ghidra](https://img.shields.io/badge/-Ghidra-e02d2c?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e02d2c)
