@@ -48,6 +48,7 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 ![Render](https://img.shields.io/badge/-Render-7C3AED?style=for-the-badge&labelColor=black&logo=render&logoColor=7C3AED)
 ![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=FFFFFF)
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-6467F2?style=for-the-badge&labelColor=black&logo=openrouter&logoColor=6467F2)
+![WebLLM](https://img.shields.io/badge/-WebLLM-1B2A8A?style=for-the-badge&labelColor=black&logo=probot&logoColor=1B2A8A)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&labelColor=black&logo=stripe&logoColor=635BFF)
 ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=for-the-badge&labelColor=black&logo=auth0&logoColor=EB5424)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
