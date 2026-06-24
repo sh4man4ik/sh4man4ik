@@ -48,7 +48,7 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 ![Render](https://img.shields.io/badge/-Render-7C3AED?style=for-the-badge&labelColor=black&logo=render&logoColor=7C3AED)
 ![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=FFFFFF)
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-6467F2?style=for-the-badge&labelColor=black&logo=openrouter&logoColor=6467F2)
-![WebLLM](https://img.shields.io/badge/-WebLLM-1B2A8A?style=for-the-badge&labelColor=black&logo=probot&logoColor=1B2A8A)
+![WebLLM](https://img.shields.io/badge/-WebLLM-A1AEE2?style=for-the-badge&labelColor=black&logo=bitrise&logoColor=A1AEE2)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&labelColor=black&logo=stripe&logoColor=635BFF)
 ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=for-the-badge&labelColor=black&logo=auth0&logoColor=EB5424)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
@@ -61,6 +61,7 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 
 ### Security Tools
 
+![IDA](https://img.shields.io/badge/-IDA-6495ED?style=for-the-badge&labelColor=black&logo=awesomelists&logoColor=6495ED)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-e02d2c?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e02d2c)
 ![x64dbg](https://img.shields.io/badge/-x64dbg-313131?style=for-the-badge&labelColor=black&logo=openbugbounty&logoColor=313131)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-00758a?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=00758a)
