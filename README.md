@@ -1,14 +1,9 @@
-## 👋 Hi, my name is Daniil
+## 👨‍💻 Security-Focused Developer
 
 My name is Daniil, and I'm a Security-Focused Developer. I have experience with OOP, SOLID principles, algorithms, CI/CD, web architecture, security engineering, APIs, and computer hardware. I know how to work in a team and I always find compromises, but I also have my own opinion on project tasks. I love solving different problems and coming up with actual solutions.
 
-## 👨‍💻 I'm a Security-Focused Developer
-
 - 🔗 My portfolio: [View](https://portfolio-sh4man.vercel.app)
 - 💼 My resume: [Download](https://raw.githubusercontent.com/sh4man4ik/sh4man4ik/main/Daniil%20Ignatjev%20CV.pdf)
-- 👨‍💻 I love coding and enjoy it
-- 💪 I love to play sports
-- 🧠 I like to learn new things
 
 ## 💬 Contact Me
 
@@ -17,7 +12,7 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)](https://discord.com/users/1263492247681237012)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)](mailto:daniil.ignatjev@gmail.com)
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
