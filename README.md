@@ -12,6 +12,14 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)](https://discord.com/users/1263492247681237012)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)](mailto:daniil.ignatjev@gmail.com)
 
+## 👀 Also Find Me
+
+[![Dev Community](https://img.shields.io/badge/-Dev-EEEEEE?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=EEEEEE)](https://dev.to/sh4man)
+[![Habr](https://img.shields.io/badge/-Habr-65A3BE?style=for-the-badge&labelColor=black&logo=habr&logoColor=65A3BE)](https://habr.com/users/sh4man)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-f89f1b?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=f89f1b)](https://leetcode.com/u/sh4manik)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-da7f2f?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=da7f2f)](https://stackoverflow.com/users/25945012/sh4man)
+[![Devpost](https://img.shields.io/badge/-Devpost-004257?style=for-the-badge&labelColor=black&logo=devpost&logoColor=004257)](https://devpost.com/sh4man)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
