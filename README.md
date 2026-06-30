@@ -15,7 +15,6 @@ My name is Daniil, and I'm a Security-Focused Developer. I have experience with 
 ## 👀 Also Find Me
 
 [![Dev Community](https://img.shields.io/badge/-Dev-EEEEEE?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=EEEEEE)](https://dev.to/sh4man)
-[![Habr](https://img.shields.io/badge/-Habr-65A3BE?style=for-the-badge&labelColor=black&logo=habr&logoColor=65A3BE)](https://habr.com/users/sh4man)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-f89f1b?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=f89f1b)](https://leetcode.com/u/sh4manik)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-da7f2f?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=da7f2f)](https://stackoverflow.com/users/25945012/sh4man)
 [![Devpost](https://img.shields.io/badge/-Devpost-004257?style=for-the-badge&labelColor=black&logo=devpost&logoColor=004257)](https://devpost.com/sh4man)
