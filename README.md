@@ -27,13 +27,13 @@ Hi, I'm Daniil. I reverse-engineer software to see how it works, write custom sc
 ![Ghidra](https://img.shields.io/badge/-Ghidra-e02d2c?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e02d2c)
 ![x64dbg](https://img.shields.io/badge/-x64dbg-313131?style=for-the-badge&labelColor=black&logo=openbugbounty&logoColor=313131)
 
-### Scripts
+### Backend/Scripts
 
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
 ![Vitest](https://img.shields.io/badge/-Vitest-1EF389?style=for-the-badge&labelColor=black&logo=vitest&logoColor=1EF389)
 
-### Websites
+### Frontend
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
