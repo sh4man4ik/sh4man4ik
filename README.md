@@ -1,6 +1,6 @@
 ## 👨‍💻 Security-Focused Developer
 
-Hi, I'm Daniil. I reverse-engineer software to see how it works, write custom scripts, and build modern web apps to turn my tools into products. I just love finding vulnerabilities and creating smart solutions around them.
+Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts, and build modern web apps to turn my tools into products. I just love finding vulnerabilities and creating smart solutions around them.
 
 ## 💬 Contact Me
 
@@ -19,7 +19,7 @@ Hi, I'm Daniil. I reverse-engineer software to see how it works, write custom sc
 
 ## 🛠️ Tech Stack
 
-### Reverse Engineering
+### Hacking
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
 ![Assembler](https://img.shields.io/badge/-Assembler-808080?style=for-the-badge&labelColor=black&logo=assemblyscript&logoColor=808080)
