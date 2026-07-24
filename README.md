@@ -15,8 +15,9 @@ Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts
 [![LeetCode](https://img.shields.io/badge/-LeetCode-f89f1b?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=f89f1b)](https://leetcode.com/u/sh4manik)
 [![Devpost](https://img.shields.io/badge/-Devpost-004257?style=for-the-badge&labelColor=black&logo=devpost&logoColor=004257)](https://devpost.com/sh4man)
 [![Dev Community](https://img.shields.io/badge/-Dev-EEEEEE?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=EEEEEE)](https://dev.to/sh4man)
-[![TikTok](https://img.shields.io/badge/-TikTok-ff0050?style=for-the-badge&labelColor=black&logo=tiktok&logoColor=ff0050)](https://www.tiktok.com/@sh4man4ik)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&labelColor=black&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/sh4manik)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&labelColor=black&logo=x&logoColor=ffffff)](https://x.com/sh4manik)
+[![TikTok](https://img.shields.io/badge/-TikTok-ff0050?style=for-the-badge&labelColor=black&logo=tiktok&logoColor=ff0050)](https://www.tiktok.com/@sh4man4ik)
 
 
 ## 🛠️ Tech Stack
