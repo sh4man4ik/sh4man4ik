@@ -28,6 +28,7 @@ Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts
 ![IDA](https://img.shields.io/badge/-IDA-6495ED?style=for-the-badge&labelColor=black&logo=awesomelists&logoColor=6495ED)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-e02d2c?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e02d2c)
 ![x64dbg](https://img.shields.io/badge/-x64dbg-313131?style=for-the-badge&labelColor=black&logo=openbugbounty&logoColor=313131)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&labelColor=black&logo=burpsuite&logoColor=FF6633)
 
 ### Backend
 
