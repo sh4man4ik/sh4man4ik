@@ -10,6 +10,7 @@ Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts
 
 ## 👀 Profiles
 
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&labelColor=black&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/sh4man4ik)
 [![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-FF5722?style=for-the-badge&labelColor=black&logo=Bugcrowd&logoColor=FF5722)](https://bugcrowd.com/h/sh4man)
 [![Crackmes.one](https://img.shields.io/badge/-Crackmes.one-9acc13?style=for-the-badge&labelColor=black&logo=Coursera&logoColor=9acc13)](https://crackmes.one/user/sh4man)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-f89f1b?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=f89f1b)](https://leetcode.com/u/sh4manik)
