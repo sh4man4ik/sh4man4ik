@@ -34,6 +34,7 @@ Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3C873A)
+![Express](https://img.shields.io/badge/-Express-FFFFFF?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
 ![Vitest](https://img.shields.io/badge/-Vitest-1EF389?style=for-the-badge&labelColor=black&logo=vitest&logoColor=1EF389)
 
