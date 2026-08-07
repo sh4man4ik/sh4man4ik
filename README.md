@@ -10,15 +10,24 @@ Hi, I'm Daniil. I love hacking things to see how they work, write custom scripts
 
 ## 👀 Profiles
 
+### Support Me
+
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&labelColor=black&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/sh4man4ik)
-[![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-FF5722?style=for-the-badge&labelColor=black&logo=Bugcrowd&logoColor=FF5722)](https://bugcrowd.com/h/sh4man)
+
+### Where I Practice
+
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&labelColor=black&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019da4d7-9f58-713f-9d7b-b4915030e997)
 [![Crackmes.one](https://img.shields.io/badge/-Crackmes.one-9acc13?style=for-the-badge&labelColor=black&logo=Coursera&logoColor=9acc13)](https://crackmes.one/user/sh4man)
+[![PortSwigger](https://img.shields.io/badge/-PortSwigger-FF6633?style=for-the-badge&labelColor=black&logo=portswigger&logoColor=FF6633)](https://portswigger.net)
+[![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-FF5722?style=for-the-badge&labelColor=black&logo=Bugcrowd&logoColor=FF5722)](https://bugcrowd.com/h/sh4man)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-f89f1b?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=f89f1b)](https://leetcode.com/u/sh4manik)
 [![Devpost](https://img.shields.io/badge/-Devpost-004257?style=for-the-badge&labelColor=black&logo=devpost&logoColor=004257)](https://devpost.com/sh4man)
+
+### Content Making
+
 [![Habr](https://img.shields.io/badge/-Habr-000000?style=for-the-badge&logo=habr&logoColor=65a3be&color=65a3be&labelColor=000000)](https://habr.com/users/sh4man)
 [![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2CA5E0)](https://t.me/sh4man_channel)
 [![YouTube Channel](https://img.shields.io/badge/-YouTube_Channel-FF0000?style=for-the-badge&labelColor=black&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@sh4man4ik)
-
 
 ## 🛠️ Tech Stack
 
